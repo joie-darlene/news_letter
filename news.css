@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+
+ .middle p{
+    color: white;
+    padding: 10px 20px 8px 30px;
+    height: 2em;
+    font-size: 2em;
+ }
+ .middle{
+    background-color: black;
+    color: white;
+    display: flex;
+  
+ }
+ .middle a{
+    position: absolute;
+    left: 85%;
+    top: 41%;
+    text-decoration: none;
+    color: #47716f;
+    border: 1px groove white;
+    width: 150px;
+    height: 30px;
+    padding: 6px 10px 6px 34px;
+    background-color: white;
+    position: absolute;
+    top:40;
+ }
+
+ .middle1{
+    background-color: black;
+    color: white;
+    height: 150px;
+    width: 99vw;
+    position: absolute;
+    top:120vh;
+ }
+
+ .middle1 a{
+    text-decoration: none;
+    position: absolute;
+    left: 2vw;
+    margin: 5px;
+    padding: 5px;
+    color: #ffffff;
+    font-size: 1.4em;
+ }
+ .middle1 i{
+    position: relative;
+    left: 80vw;
+    top: 1vh;
+    padding: 5px; 
+    font-size: x-large; 
+ }
+
+ /* for archived */
+ section .all{
+   
+   height: 360px;
+   margin: 20px;
+   background-color: #ffffff;
+  
+}
+.firsta{
+   padding: 10px;
+   display: flex;
+}
+.imga{
+   width: 300px;
+   height: 200px;
+   border-radius: 5px;
+   padding-left: 50px;
+   padding-top: 50px;
+}
+.pa{
+   text-align: justify;
+   font-style: normal;
+   font-size: 1.2rem;
+   margin-left: 50px;
+   letter-spacing: 3px;
+   padding-left: 25px;
+   width: 500px;
+   height: 440px;
+   padding-top:70px ;
+}
+
+.second1{
+   
+   background-color: #ffffff;
+   height: 300px;
+   margin: 20px;
+   
+}
+.seconda{
+   display: flex;
+}
+.pa1{
+   text-align: justify;
+   font-style: normal;
+   font-size: 1.2rem; 
+   letter-spacing: 3px;
+   width: 500px;
+   height: 440px;
+   padding-left: 180px;
+   padding-right: 25px;
+   padding-top: 60px;
+}
+.imga1{
+   width: 300px;
+   height: 200px;
+   padding-left: 80px;
+   padding-top: 40px;
+
+}
+.title{
+   font-size: 3em;
+   margin-left: 0px;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+.pa span , .pa1 span{
+   color: blue;
+
+}
